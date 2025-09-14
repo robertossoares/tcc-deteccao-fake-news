@@ -21,12 +21,12 @@ O dataset utilizado foi o **Fake.br-Corpus**, um corpus de notícias em portugu�
 
 Após treinamento e otimização, os modelos foram avaliados em um conjunto de teste, com o **SVM** apresentando o melhor desempenho geral:
 
-| Modelo                  | Acurácia | Precisão (falsa) | Recall (falsa) | F1-Score (falsa) |
-| :---------------------- | :------- | :--------------- | :------------- | :--------------- |
-| **SVM Otimizado**           | **97.0%**    | **96.9%**            | **97.1%**          | **97.0%**            |
-| Random Forest Otimizado | 96.1%    | 95.7%            | 96.5%          | 96.1%            |
-| BERT                    | 93.3%    | 90.6%            | 96.7%          | 93.6%            |
-| Naive Bayes Otimizado   | 88.7%    | 90.8%            | 86.2%          | 88.5%            |
+| Modelo                  | Acurácia | Precisão | Recall | F1-Score |
+| :---------------------- | :------- | :--------| :------| :--------|
+| **SVM Otimizado**           | **97.0%**    | **97.0%**    | **97.1%**    | **97.0%**    |
+| Random Forest Otimizado | 96.2%    | 96.2%    | 96.1%  | 96.1%    |
+| BERT                    | 93.3%    | 90.6%    | 96.7%  | 93.6%    |
+| Naive Bayes Otimizado   | 88.5%    | 90.5%    | 86.1%  | 88.2%    |
 
 ## 📂 Estrutura do Repositório
 
