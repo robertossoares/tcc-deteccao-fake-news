@@ -1,0 +1,15 @@
+# Datasets baixados (o notebook os baixa se necessário)
+notebooks/Fake.br-Corpus/
+modelos_salvos/modelo_bert.bin
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiros de cache do Jupyter Notebook
+.ipynb_checkpoints/
